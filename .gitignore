@@ -112,3 +112,10 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local AI harness state (opencode sessions)
+/.omo/
+
+# Unity numeric scene duplicates (e.g. "MyScene 1.unity")
+* 1.unity
+* 1.unity.meta
