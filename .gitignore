@@ -119,3 +119,7 @@ InitTestScene*.unity*
 # Unity numeric scene duplicates (e.g. "MyScene 1.unity")
 * 1.unity
 * 1.unity.meta
+
+# WebGL build output (regenerable artifacts, never commit)
+Web Builds/
+Web Builds.zip
